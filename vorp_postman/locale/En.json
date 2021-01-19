@@ -1,0 +1,11 @@
+﻿{
+  "PressToStart": "İşe başlatmak için [~ e ~ Boşluk ~ q ~] düğmesine basın",
+  "PressToStop": "İşi bitirmek için [~ e ~ Boşluk ~ q ~] 'a basın",
+  "VehicleBlip": "İş aracı",
+  "ReturnToOffice": "Ofise dönün ve aracınızı iade edin, tüm paketler teslim edildi.",
+  "DriveTo": "{0} konumuna gidin ve paketi teslim edin",
+  "DeliverIn": "Paketi {0} içinde teslim et",
+  "KeyTo": "[ENTER]",
+  "PickPackage": "Paketi al",
+  "YouReceive": "{0} $ ve {1} Xp aldınız"
+}
